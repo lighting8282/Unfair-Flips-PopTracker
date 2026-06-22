@@ -1,0 +1,561 @@
+[
+    {
+        "name": "Streaks",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "1 Heads in a Row",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "sections": [
+                    {
+                        "item_count": 1,
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 60,
+                        "y": 45,
+                        "size": 26
+                    }
+                ]
+            },
+            {
+                "name": "2 Heads in a Row",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "sections": [
+                    {
+                        "item_count": 1,
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 114,
+                        "y": 45,
+                        "size": 26
+                    }
+                ]
+            },
+            {
+                "name": "3 Heads in a Row",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "sections": [
+                    {
+                        "item_count": 1,
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 168,
+                        "y": 45,
+                        "size": 26
+                    }
+                ]
+            },
+            {
+                "name": "4 Heads in a Row",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "sections": [
+                    {
+                        "item_count": 1,
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 222,
+                        "y": 45,
+                        "size": 26
+                    }
+                ]
+            },
+            {
+                "name": "5 Heads in a Row",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "sections": [
+                    {
+                        "item_count": 1,
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 276,
+                        "y": 45,
+                        "size": 26
+                    }
+                ]
+            },
+            {
+                "name": "6 Heads in a Row",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "sections": [
+                    {
+                        "item_count": 1,
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 330,
+                        "y": 45,
+                        "size": 26
+                    }
+                ]
+            },
+            {
+                "name": "7 Heads in a Row",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "sections": [
+                    {
+                        "item_count": 1,
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 384,
+                        "y": 45,
+                        "size": 26
+                    }
+                ]
+            },
+            {
+                "name": "8 Heads in a Row",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "sections": [
+                    {
+                        "item_count": 1,
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 438,
+                        "y": 45,
+                        "size": 26
+                    }
+                ]
+            },
+            {
+                "name": "9 Heads in a Row",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "sections": [
+                    {
+                        "item_count": 1,
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 492,
+                        "y": 45,
+                        "size": 26
+                    }
+                ]
+            },
+            {
+                "name": "10 Heads in a Row",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "sections": [
+                    {
+                        "item_count": 1,
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 546,
+                        "y": 45,
+                        "size": 26
+                    }
+                ]
+            },
+            {
+                "name": "11 Heads in a Row",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "sections": [
+                    {
+                        "item_count": 1,
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 60,
+                        "y": 91,
+                        "size": 26
+                    }
+                ]
+            },
+            {
+                "name": "12 Heads in a Row",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "sections": [
+                    {
+                        "item_count": 1,
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 114,
+                        "y": 91,
+                        "size": 26
+                    }
+                ]
+            },
+            {
+                "name": "13 Heads in a Row",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "sections": [
+                    {
+                        "item_count": 1,
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 168,
+                        "y": 91,
+                        "size": 26
+                    }
+                ]
+            },
+            {
+                "name": "14 Heads in a Row",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "sections": [
+                    {
+                        "item_count": 1,
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 222,
+                        "y": 91,
+                        "size": 26
+                    }
+                ]
+            },
+            {
+                "name": "15 Heads in a Row",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "sections": [
+                    {
+                        "item_count": 1,
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 276,
+                        "y": 91,
+                        "size": 26
+                    }
+                ]
+            },
+            {
+                "name": "16 Heads in a Row",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "sections": [
+                    {
+                        "item_count": 1,
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 330,
+                        "y": 91,
+                        "size": 26
+                    }
+                ]
+            },
+            {
+                "name": "17 Heads in a Row",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "sections": [
+                    {
+                        "item_count": 1,
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 384,
+                        "y": 91,
+                        "size": 26
+                    }
+                ]
+            },
+            {
+                "name": "18 Heads in a Row",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "sections": [
+                    {
+                        "item_count": 1,
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 438,
+                        "y": 91,
+                        "size": 26
+                    }
+                ]
+            },
+            {
+                "name": "19 Heads in a Row",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "sections": [
+                    {
+                        "item_count": 1,
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 492,
+                        "y": 91,
+                        "size": 26
+                    }
+                ]
+            },
+            {
+                "name": "20 Heads in a Row",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "sections": [
+                    {
+                        "item_count": 1,
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 546,
+                        "y": 91,
+                        "size": 26
+                    }
+                ]
+            },
+            {
+                "name": "21 Heads in a Row",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "sections": [
+                    {
+                        "item_count": 1,
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 60,
+                        "y": 137,
+                        "size": 26
+                    }
+                ]
+            },
+            {
+                "name": "22 Heads in a Row",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "sections": [
+                    {
+                        "item_count": 1,
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 114,
+                        "y": 137,
+                        "size": 26
+                    }
+                ]
+            },
+            {
+                "name": "23 Heads in a Row",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "sections": [
+                    {
+                        "item_count": 1,
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 168,
+                        "y": 137,
+                        "size": 26
+                    }
+                ]
+            },
+            {
+                "name": "24 Heads in a Row",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "sections": [
+                    {
+                        "item_count": 1,
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 222,
+                        "y": 137,
+                        "size": 26
+                    }
+                ]
+            },
+            {
+                "name": "25 Heads in a Row",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "sections": [
+                    {
+                        "item_count": 1,
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 276,
+                        "y": 137,
+                        "size": 26
+                    }
+                ]
+            },
+            {
+                "name": "26 Heads in a Row",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "sections": [
+                    {
+                        "item_count": 1,
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 330,
+                        "y": 137,
+                        "size": 26
+                    }
+                ]
+            },
+            {
+                "name": "27 Heads in a Row",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "sections": [
+                    {
+                        "item_count": 1,
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 384,
+                        "y": 137,
+                        "size": 26
+                    }
+                ]
+            },
+            {
+                "name": "28 Heads in a Row",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "sections": [
+                    {
+                        "item_count": 1,
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 438,
+                        "y": 137,
+                        "size": 26
+                    }
+                ]
+            },
+            {
+                "name": "29 Heads in a Row",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "sections": [
+                    {
+                        "item_count": 1,
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 492,
+                        "y": 137,
+                        "size": 26
+                    }
+                ]
+            }
+        ]
+    }
+]

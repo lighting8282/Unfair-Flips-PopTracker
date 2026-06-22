@@ -1,0 +1,8 @@
+# AssetStudio export (large; contains decompiled game assets) — not part of the pack
+images/items/ExportedProject/
+images/items/AuxiliaryFiles/
+
+# OS / editor cruft
+Thumbs.db
+.DS_Store
+desktop.ini

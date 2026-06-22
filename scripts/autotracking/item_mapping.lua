@@ -1,0 +1,15 @@
+ITEM_MAPPING = {
+	[1] = {{"progressivefairness", "consumable"}},
+	[2] = {{"headsplus", "consumable"}},
+	[3] = {{"flipplus", "consumable"}},
+	[4] = {{"comboplus", "consumable"}},
+	[5] = {{"coinplus", "consumable"}},
+	[6] = {{"autoflipplus", "toggle"}},
+	[16] = {{"tailstrap", "consumable"}},
+	[17] = {{"pennytrap", "consumable"}},
+	[18] = {{"taxtrap", "consumable"}},
+	[19] = {{"slowtrap", "consumable"}},
+	[32] = {{"money1", "consumable"}},
+	[33] = {{"money2", "consumable"}},
+	[34] = {{"money3", "consumable"}},
+}

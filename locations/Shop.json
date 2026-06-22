@@ -1,0 +1,2474 @@
+[
+    {
+        "name": "Shop",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Heads Chance",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "Purchase 1",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 60,
+                                "y": 212,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 2",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 114,
+                                "y": 212,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 3",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 168,
+                                "y": 212,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 4",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 222,
+                                "y": 212,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 5",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 276,
+                                "y": 212,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 6",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 330,
+                                "y": 212,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 7",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 384,
+                                "y": 212,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 8",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 438,
+                                "y": 212,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 9",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 492,
+                                "y": 212,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 10",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 546,
+                                "y": 212,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 11",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 600,
+                                "y": 212,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 12",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 654,
+                                "y": 212,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 13",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 708,
+                                "y": 212,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 14",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 762,
+                                "y": 212,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 15",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 816,
+                                "y": 212,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 16",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 870,
+                                "y": 212,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 17",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 60,
+                                "y": 248,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 18",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 114,
+                                "y": 248,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 19",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 168,
+                                "y": 248,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 20",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 222,
+                                "y": 248,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 21",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 276,
+                                "y": 248,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 22",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 330,
+                                "y": 248,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 23",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 384,
+                                "y": 248,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 24",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 438,
+                                "y": 248,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 25",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 492,
+                                "y": 248,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 26",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 546,
+                                "y": 248,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 27",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 600,
+                                "y": 248,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 28",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 654,
+                                "y": 248,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 29",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 708,
+                                "y": 248,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 30",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 762,
+                                "y": 248,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 31",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 816,
+                                "y": 248,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 32",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 870,
+                                "y": 248,
+                                "size": 26
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Flip Time",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "Purchase 1",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 60,
+                                "y": 292,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 2",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 114,
+                                "y": 292,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 3",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 168,
+                                "y": 292,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 4",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 222,
+                                "y": 292,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 5",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 276,
+                                "y": 292,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 6",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 330,
+                                "y": 292,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 7",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 384,
+                                "y": 292,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 8",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 438,
+                                "y": 292,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 9",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 492,
+                                "y": 292,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 10",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 546,
+                                "y": 292,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 11",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 600,
+                                "y": 292,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 12",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 654,
+                                "y": 292,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 13",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 708,
+                                "y": 292,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 14",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 762,
+                                "y": 292,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 15",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 816,
+                                "y": 292,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 16",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 870,
+                                "y": 292,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 17",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 60,
+                                "y": 328,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 18",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 114,
+                                "y": 328,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 19",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 168,
+                                "y": 328,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 20",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 222,
+                                "y": 328,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 21",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 276,
+                                "y": 328,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 22",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 330,
+                                "y": 328,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 23",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 384,
+                                "y": 328,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 24",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 438,
+                                "y": 328,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 25",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 492,
+                                "y": 328,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 26",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 546,
+                                "y": 328,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 27",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 600,
+                                "y": 328,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 28",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 654,
+                                "y": 328,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 29",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 708,
+                                "y": 328,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 30",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 762,
+                                "y": 328,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 31",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 816,
+                                "y": 328,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 32",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 870,
+                                "y": 328,
+                                "size": 26
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Combo Mult",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "Purchase 1",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 60,
+                                "y": 372,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 2",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 114,
+                                "y": 372,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 3",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 168,
+                                "y": 372,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 4",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 222,
+                                "y": 372,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 5",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 276,
+                                "y": 372,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 6",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 330,
+                                "y": 372,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 7",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 384,
+                                "y": 372,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 8",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 438,
+                                "y": 372,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 9",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 492,
+                                "y": 372,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 10",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 546,
+                                "y": 372,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 11",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 600,
+                                "y": 372,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 12",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 654,
+                                "y": 372,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 13",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 708,
+                                "y": 372,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 14",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 762,
+                                "y": 372,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 15",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 816,
+                                "y": 372,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 16",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 870,
+                                "y": 372,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 17",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 60,
+                                "y": 408,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 18",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 114,
+                                "y": 408,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 19",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 168,
+                                "y": 408,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 20",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 222,
+                                "y": 408,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 21",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 276,
+                                "y": 408,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 22",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 330,
+                                "y": 408,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 23",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 384,
+                                "y": 408,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 24",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 438,
+                                "y": 408,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 25",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 492,
+                                "y": 408,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 26",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 546,
+                                "y": 408,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 27",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 600,
+                                "y": 408,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 28",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 654,
+                                "y": 408,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 29",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 708,
+                                "y": 408,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 30",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 762,
+                                "y": 408,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 31",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 816,
+                                "y": 408,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 32",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 870,
+                                "y": 408,
+                                "size": 26
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Coin Value",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "Purchase 1",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 60,
+                                "y": 452,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 2",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 114,
+                                "y": 452,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 3",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 168,
+                                "y": 452,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 4",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 222,
+                                "y": 452,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 5",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 276,
+                                "y": 452,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 6",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 330,
+                                "y": 452,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 7",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 384,
+                                "y": 452,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 8",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 438,
+                                "y": 452,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 9",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 492,
+                                "y": 452,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 10",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 546,
+                                "y": 452,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 11",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 600,
+                                "y": 452,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 12",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 654,
+                                "y": 452,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 13",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 708,
+                                "y": 452,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 14",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 762,
+                                "y": 452,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 15",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 816,
+                                "y": 452,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 16",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 870,
+                                "y": 452,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 17",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 60,
+                                "y": 488,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 18",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 114,
+                                "y": 488,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 19",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 168,
+                                "y": 488,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 20",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 222,
+                                "y": 488,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 21",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 276,
+                                "y": 488,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 22",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 330,
+                                "y": 488,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 23",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 384,
+                                "y": 488,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 24",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 438,
+                                "y": 488,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 25",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 492,
+                                "y": 488,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 26",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 546,
+                                "y": 488,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 27",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 600,
+                                "y": 488,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 28",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 654,
+                                "y": 488,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 29",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 708,
+                                "y": 488,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 30",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 762,
+                                "y": 488,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 31",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 816,
+                                "y": 488,
+                                "size": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purchase 32",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "access_rules": []
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Overworld",
+                                "x": 870,
+                                "y": 488,
+                                "size": 26
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

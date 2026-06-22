@@ -1,0 +1,14 @@
+{
+    "tabbed_maps_horizontal": {
+        "type": "tabbed",
+        "tabs": [
+            {"title": "Overworld", "content": {"type": "map", "maps": ["Overworld"]}}
+        ]
+    },
+    "tabbed_maps_vertical": {
+        "type": "tabbed",
+        "tabs": [
+            {"title": "Overworld", "content": {"type": "map", "maps": ["Overworld"]}}
+        ]
+    }
+}

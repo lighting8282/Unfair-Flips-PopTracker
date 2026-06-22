@@ -1,0 +1,210 @@
+{
+    "shared_item_grid_vertical": {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "group",
+                        "header": "Progression",
+                        "margin": "8,8",
+                        "content": {
+                            "type": "itemgrid",
+                            "item_margin": "6, 6",
+                            "h_alignment": "left",
+                            "item_h_alignment": "center",
+                            "item_v_alignment": "center",
+                            "item_height": 144,
+                            "item_width": 144,
+                            "rows": [
+                                ["progressivefairness", "headsplus", "flipplus"],
+                                ["comboplus", "coinplus"]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "group",
+                        "header": "Filler",
+                        "margin": "8,8",
+                        "content": {
+                            "type": "itemgrid",
+                            "item_margin": "6, 6",
+                            "h_alignment": "left",
+                            "item_h_alignment": "center",
+                            "item_v_alignment": "center",
+                            "item_height": 144,
+                            "item_width": 144,
+                            "rows": [
+                                ["money1", "money2", "money3"]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "group",
+                        "header": "Useful",
+                        "margin": "8,8",
+                        "content": {
+                            "type": "itemgrid",
+                            "item_margin": "6, 6",
+                            "h_alignment": "left",
+                            "item_h_alignment": "center",
+                            "item_v_alignment": "center",
+                            "item_height": 144,
+                            "item_width": 144,
+                            "rows": [
+                                ["autoflipplus"]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "group",
+                        "header": "Traps",
+                        "margin": "8,8",
+                        "content": {
+                            "type": "itemgrid",
+                            "item_margin": "6, 6",
+                            "h_alignment": "left",
+                            "item_h_alignment": "center",
+                            "item_v_alignment": "center",
+                            "item_height": 144,
+                            "item_width": 144,
+                            "rows": [
+                                ["tailstrap", "pennytrap"],
+                                ["taxtrap", "slowtrap"]
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "shared_item_grid_horizontal": {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "group",
+                "header": "Progression",
+                "margin": "8,8",
+                "content": {
+                    "type": "itemgrid",
+                    "item_margin": "6, 6",
+                    "h_alignment": "left",
+                    "item_h_alignment": "center",
+                    "item_v_alignment": "center",
+                    "item_height": 144,
+                    "item_width": 144,
+                    "rows": [
+                        ["progressivefairness", "headsplus", "flipplus"],
+                        ["comboplus", "coinplus"]
+                    ]
+                }
+            },
+            {
+                "type": "group",
+                "header": "Useful",
+                "margin": "8,8",
+                "content": {
+                    "type": "itemgrid",
+                    "item_margin": "6, 6",
+                    "h_alignment": "left",
+                    "item_h_alignment": "center",
+                    "item_v_alignment": "center",
+                    "item_height": 144,
+                    "item_width": 144,
+                    "rows": [
+                        ["autoflipplus"]
+                    ]
+                }
+            },
+            {
+                "type": "group",
+                "header": "Filler",
+                "margin": "8,8",
+                "content": {
+                    "type": "itemgrid",
+                    "item_margin": "6, 6",
+                    "h_alignment": "left",
+                    "item_h_alignment": "center",
+                    "item_v_alignment": "center",
+                    "item_height": 144,
+                    "item_width": 144,
+                    "rows": [
+                        ["money1", "money2", "money3"]
+                    ]
+                }
+            },
+            {
+                "type": "group",
+                "header": "Traps",
+                "margin": "8,8",
+                "content": {
+                    "type": "itemgrid",
+                    "item_margin": "6, 6",
+                    "h_alignment": "left",
+                    "item_h_alignment": "center",
+                    "item_v_alignment": "center",
+                    "item_height": 144,
+                    "item_width": 144,
+                    "rows": [
+                        ["tailstrap", "pennytrap"],
+                        ["taxtrap", "slowtrap"]
+                    ]
+                }
+            }
+        ]
+    },
+    "utility_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "6, 6",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 72,
+                "item_width": 72,
+                "rows": [
+                    ["deathlink_enabled", "traps_enabled", "autoflip_enabled"],
+                    ["reqheads_info", "startodds_info", "flipdiff_info"],
+                    ["dlchance_info", "dlstreak_info"]
+                ]
+            }
+        ]
+    },
+    "setting_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "2, 2",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 36,
+                "item_width": 36,
+                "rows": [
+                    ["autofill_settings"]
+                ]
+            }
+        ]
+    }
+}

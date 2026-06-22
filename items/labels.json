@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Autofill Settings",
+        "type": "toggle",
+        "img": "images/settings/autofill.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "autofill_settings"
+    }
+]
