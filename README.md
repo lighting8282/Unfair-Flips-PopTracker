@@ -31,8 +31,7 @@ Requires **PopTracker 0.31.0** or newer.
 1. Load the pack and open the **AP** connection dialog
    (the "AP" button in PopTracker).
 2. Enter the host, port, slot name and password for your Archipelago room.
-3. Items and checks update automatically as you play; the Utility panel fills in
-   from your slot settings on connect.
+3. Items and checks update automatically as you play!
 
 ## Links
 
