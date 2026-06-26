@@ -19,70 +19,11 @@
                             "h_alignment": "left",
                             "item_h_alignment": "center",
                             "item_v_alignment": "center",
-                            "item_height": 144,
-                            "item_width": 144,
+                            "item_height": 72,
+                            "item_width": 72,
                             "rows": [
                                 ["progressivefairness", "headsplus", "flipplus"],
-                                ["comboplus", "coinplus"]
-                            ]
-                        }
-                    },
-                    {
-                        "type": "group",
-                        "header": "Filler",
-                        "margin": "8,8",
-                        "content": {
-                            "type": "itemgrid",
-                            "item_margin": "6, 6",
-                            "h_alignment": "left",
-                            "item_h_alignment": "center",
-                            "item_v_alignment": "center",
-                            "item_height": 144,
-                            "item_width": 144,
-                            "rows": [
-                                ["money1", "money2", "money3"]
-                            ]
-                        }
-                    }
-                ]
-            },
-            {
-                "type": "array",
-                "orientation": "vertical",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "group",
-                        "header": "Useful",
-                        "margin": "8,8",
-                        "content": {
-                            "type": "itemgrid",
-                            "item_margin": "6, 6",
-                            "h_alignment": "left",
-                            "item_h_alignment": "center",
-                            "item_v_alignment": "center",
-                            "item_height": 144,
-                            "item_width": 144,
-                            "rows": [
-                                ["autoflipplus"]
-                            ]
-                        }
-                    },
-                    {
-                        "type": "group",
-                        "header": "Traps",
-                        "margin": "8,8",
-                        "content": {
-                            "type": "itemgrid",
-                            "item_margin": "6, 6",
-                            "h_alignment": "left",
-                            "item_h_alignment": "center",
-                            "item_v_alignment": "center",
-                            "item_height": 144,
-                            "item_width": 144,
-                            "rows": [
-                                ["tailstrap", "pennytrap"],
-                                ["taxtrap", "slowtrap"]
+                                ["comboplus", "coinplus", "autoflipplus"]
                             ]
                         }
                     }
@@ -105,63 +46,11 @@
                     "h_alignment": "left",
                     "item_h_alignment": "center",
                     "item_v_alignment": "center",
-                    "item_height": 144,
-                    "item_width": 144,
+                    "item_height": 72,
+                    "item_width": 72,
                     "rows": [
                         ["progressivefairness", "headsplus", "flipplus"],
-                        ["comboplus", "coinplus"]
-                    ]
-                }
-            },
-            {
-                "type": "group",
-                "header": "Useful",
-                "margin": "8,8",
-                "content": {
-                    "type": "itemgrid",
-                    "item_margin": "6, 6",
-                    "h_alignment": "left",
-                    "item_h_alignment": "center",
-                    "item_v_alignment": "center",
-                    "item_height": 144,
-                    "item_width": 144,
-                    "rows": [
-                        ["autoflipplus"]
-                    ]
-                }
-            },
-            {
-                "type": "group",
-                "header": "Filler",
-                "margin": "8,8",
-                "content": {
-                    "type": "itemgrid",
-                    "item_margin": "6, 6",
-                    "h_alignment": "left",
-                    "item_h_alignment": "center",
-                    "item_v_alignment": "center",
-                    "item_height": 144,
-                    "item_width": 144,
-                    "rows": [
-                        ["money1", "money2", "money3"]
-                    ]
-                }
-            },
-            {
-                "type": "group",
-                "header": "Traps",
-                "margin": "8,8",
-                "content": {
-                    "type": "itemgrid",
-                    "item_margin": "6, 6",
-                    "h_alignment": "left",
-                    "item_h_alignment": "center",
-                    "item_v_alignment": "center",
-                    "item_height": 144,
-                    "item_width": 144,
-                    "rows": [
-                        ["tailstrap", "pennytrap"],
-                        ["taxtrap", "slowtrap"]
+                        ["comboplus", "coinplus", "autoflipplus"]
                     ]
                 }
             }

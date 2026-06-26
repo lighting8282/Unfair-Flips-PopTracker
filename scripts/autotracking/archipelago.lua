@@ -31,6 +31,61 @@ end
 
 Troll_Lookup = {}
 
+-- ===== Progression "received / max" overlays =====
+-- AP item id -> tracker code for the progression items
+PROG_ID_TO_CODE = {
+    [1] = "progressivefairness",
+    [2] = "headsplus",
+    [3] = "flipplus",
+    [4] = "comboplus",
+    [5] = "coinplus",
+    [6] = "autoflipplus",
+}
+PROG_COUNT = {}   -- code -> number received this seed
+PROG_MAX = {}     -- code -> max possible this seed (from slot_data)
+
+-- Pool maxes mirror the apworld's create_items():
+--   gate_count = ceil((RequiredHeads + 1) / 2)
+function ComputeProgMax(slot_data)
+    local rh = (slot_data and tonumber(slot_data.RequiredHeads)) or 0
+    local gate = math.ceil((rh + 1) / 2)
+    local autoflip_on = slot_data and (slot_data.AutoFlipEnabled == 1 or slot_data.AutoFlipEnabled == true)
+    PROG_MAX = {
+        progressivefairness = math.max(gate - 1, 0),
+        headsplus = math.max(gate - 1, 0),
+        flipplus = gate,
+        comboplus = gate,
+        coinplus = 4,
+        autoflipplus = autoflip_on and math.floor(gate * 0.7 + 0.5) or 0,
+    }
+end
+
+function UpdateProgOverlay(code)
+    local obj = Tracker:FindObjectForCode(code)
+    if not obj then
+        return
+    end
+    local cnt = PROG_COUNT[code] or 0
+    local mx = PROG_MAX[code]
+    obj:SetOverlayFontSize(22)
+    obj:SetOverlayBackground("#000000")
+    if mx and mx > 0 then
+        obj:SetOverlay(cnt .. "/" .. mx)
+    elseif cnt > 0 then
+        obj:SetOverlay(tostring(cnt))
+    else
+        obj:SetOverlay("")
+    end
+end
+
+function ResetProgOverlays(slot_data)
+    ComputeProgMax(slot_data)
+    for _, code in pairs(PROG_ID_TO_CODE) do
+        PROG_COUNT[code] = 0
+        UpdateProgOverlay(code)
+    end
+end
+
 function dump_table(o, depth)
     if depth == nil then
         depth = 0
@@ -231,6 +286,8 @@ function onClear(slot_data)
     set_info("flipdiff_info", slot_data and slot_data.FlipDifficulty)
     set_info("dlchance_info", slot_data and slot_data.DeathLinkChance)
     set_info("dlstreak_info", slot_data and slot_data.DeathLinkMinStreak)
+    -- progression counters reset to 0/max for this seed
+    ResetProgOverlays(slot_data)
     if Archipelago.PlayerNumber > -1 then
         if #ALL_LOCATIONS > 0 then
             ALL_LOCATIONS = {}
@@ -291,6 +348,12 @@ function onItem(index, item_id, item_name, player_number)
         if traps_obj then
             traps_obj.Active = true
         end
+    end
+    -- Progression items: bump the received count and refresh the "received / max" overlay
+    if PROG_ID_TO_CODE[item_id] then
+        local code = PROG_ID_TO_CODE[item_id]
+        PROG_COUNT[code] = (PROG_COUNT[code] or 0) + 1
+        UpdateProgOverlay(code)
     end
 end
 
