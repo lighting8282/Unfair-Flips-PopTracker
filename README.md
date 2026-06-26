@@ -14,12 +14,7 @@ your seed's settings at a glance.
   - **Streaks** — the 29 "Heads in a Row" checks.
   - **Shop** — all 128 purchases, grouped by upgrade
     (Heads Chance, Flip Time, Combo Mult, Coin Value).
-- **Items grouped by Archipelago classification** — Progression, Useful, Filler
-  and Traps. Progression and trap items show a running **count**.
-- **Utility panel** that reads your slot data on connect and shows:
-  - Death Link, AutoFlip, and Traps indicators (on/off).
-  - Required Heads, Starting Heads Chance, Flip Difficulty, Death Link Chance and
-    Death Link Min Streak as live numbers.
+- **Items grouped by Archipelago classification** — Progression only! 
 
 ## Installation
 
@@ -42,7 +37,7 @@ Requires **PopTracker 0.31.0** or newer.
 ## Links
 
 - **Game (Steam):** https://store.steampowered.com/app/3925760/
-- **Unfair Flips Archipelago mod & apworld:** https://github.com/robotzurg/UnfairFlipsAPMod
+- **Unfair Flips Archipelago mod & apworld:** https://github.com/robotzurg/UnfairFlipsAPMod and https://github.com/xMcacutt-Archipelago/Archipelago-UnfairFlips/releases
 - **Archipelago wiki page:** https://archipelago.miraheze.org/wiki/Unfair_Flips
 - **PopTracker:** https://github.com/black-sliver/PopTracker
 
