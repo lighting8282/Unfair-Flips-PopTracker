@@ -12,7 +12,9 @@
                 "sections": [
                     {
                         "item_count": 1,
-                        "access_rules": []
+                        "access_rules": [
+                            "$streakReachable|1"
+                        ]
                     }
                 ],
                 "map_locations": [
@@ -31,7 +33,9 @@
                 "sections": [
                     {
                         "item_count": 1,
-                        "access_rules": []
+                        "access_rules": [
+                            "$streakReachable|2"
+                        ]
                     }
                 ],
                 "map_locations": [
@@ -50,7 +54,9 @@
                 "sections": [
                     {
                         "item_count": 1,
-                        "access_rules": []
+                        "access_rules": [
+                            "$streakReachable|3"
+                        ]
                     }
                 ],
                 "map_locations": [
@@ -69,7 +75,9 @@
                 "sections": [
                     {
                         "item_count": 1,
-                        "access_rules": []
+                        "access_rules": [
+                            "$streakReachable|4"
+                        ]
                     }
                 ],
                 "map_locations": [
@@ -88,7 +96,9 @@
                 "sections": [
                     {
                         "item_count": 1,
-                        "access_rules": []
+                        "access_rules": [
+                            "$streakReachable|5"
+                        ]
                     }
                 ],
                 "map_locations": [
@@ -107,7 +117,9 @@
                 "sections": [
                     {
                         "item_count": 1,
-                        "access_rules": []
+                        "access_rules": [
+                            "$streakReachable|6"
+                        ]
                     }
                 ],
                 "map_locations": [
@@ -126,7 +138,9 @@
                 "sections": [
                     {
                         "item_count": 1,
-                        "access_rules": []
+                        "access_rules": [
+                            "$streakReachable|7"
+                        ]
                     }
                 ],
                 "map_locations": [
@@ -145,7 +159,9 @@
                 "sections": [
                     {
                         "item_count": 1,
-                        "access_rules": []
+                        "access_rules": [
+                            "$streakReachable|8"
+                        ]
                     }
                 ],
                 "map_locations": [
@@ -164,7 +180,9 @@
                 "sections": [
                     {
                         "item_count": 1,
-                        "access_rules": []
+                        "access_rules": [
+                            "$streakReachable|9"
+                        ]
                     }
                 ],
                 "map_locations": [
@@ -183,7 +201,9 @@
                 "sections": [
                     {
                         "item_count": 1,
-                        "access_rules": []
+                        "access_rules": [
+                            "$streakReachable|10"
+                        ]
                     }
                 ],
                 "map_locations": [
@@ -202,7 +222,9 @@
                 "sections": [
                     {
                         "item_count": 1,
-                        "access_rules": []
+                        "access_rules": [
+                            "$streakReachable|11"
+                        ]
                     }
                 ],
                 "map_locations": [
@@ -221,7 +243,9 @@
                 "sections": [
                     {
                         "item_count": 1,
-                        "access_rules": []
+                        "access_rules": [
+                            "$streakReachable|12"
+                        ]
                     }
                 ],
                 "map_locations": [
@@ -240,7 +264,9 @@
                 "sections": [
                     {
                         "item_count": 1,
-                        "access_rules": []
+                        "access_rules": [
+                            "$streakReachable|13"
+                        ]
                     }
                 ],
                 "map_locations": [
@@ -259,7 +285,9 @@
                 "sections": [
                     {
                         "item_count": 1,
-                        "access_rules": []
+                        "access_rules": [
+                            "$streakReachable|14"
+                        ]
                     }
                 ],
                 "map_locations": [
@@ -278,7 +306,9 @@
                 "sections": [
                     {
                         "item_count": 1,
-                        "access_rules": []
+                        "access_rules": [
+                            "$streakReachable|15"
+                        ]
                     }
                 ],
                 "map_locations": [
@@ -297,7 +327,9 @@
                 "sections": [
                     {
                         "item_count": 1,
-                        "access_rules": []
+                        "access_rules": [
+                            "$streakReachable|16"
+                        ]
                     }
                 ],
                 "map_locations": [
@@ -316,7 +348,9 @@
                 "sections": [
                     {
                         "item_count": 1,
-                        "access_rules": []
+                        "access_rules": [
+                            "$streakReachable|17"
+                        ]
                     }
                 ],
                 "map_locations": [
@@ -335,7 +369,9 @@
                 "sections": [
                     {
                         "item_count": 1,
-                        "access_rules": []
+                        "access_rules": [
+                            "$streakReachable|18"
+                        ]
                     }
                 ],
                 "map_locations": [
@@ -354,7 +390,9 @@
                 "sections": [
                     {
                         "item_count": 1,
-                        "access_rules": []
+                        "access_rules": [
+                            "$streakReachable|19"
+                        ]
                     }
                 ],
                 "map_locations": [
@@ -373,7 +411,9 @@
                 "sections": [
                     {
                         "item_count": 1,
-                        "access_rules": []
+                        "access_rules": [
+                            "$streakReachable|20"
+                        ]
                     }
                 ],
                 "map_locations": [
@@ -392,7 +432,9 @@
                 "sections": [
                     {
                         "item_count": 1,
-                        "access_rules": []
+                        "access_rules": [
+                            "$streakReachable|21"
+                        ]
                     }
                 ],
                 "map_locations": [
@@ -411,7 +453,9 @@
                 "sections": [
                     {
                         "item_count": 1,
-                        "access_rules": []
+                        "access_rules": [
+                            "$streakReachable|22"
+                        ]
                     }
                 ],
                 "map_locations": [
@@ -430,7 +474,9 @@
                 "sections": [
                     {
                         "item_count": 1,
-                        "access_rules": []
+                        "access_rules": [
+                            "$streakReachable|23"
+                        ]
                     }
                 ],
                 "map_locations": [
@@ -449,7 +495,9 @@
                 "sections": [
                     {
                         "item_count": 1,
-                        "access_rules": []
+                        "access_rules": [
+                            "$streakReachable|24"
+                        ]
                     }
                 ],
                 "map_locations": [
@@ -468,7 +516,9 @@
                 "sections": [
                     {
                         "item_count": 1,
-                        "access_rules": []
+                        "access_rules": [
+                            "$streakReachable|25"
+                        ]
                     }
                 ],
                 "map_locations": [
@@ -487,7 +537,9 @@
                 "sections": [
                     {
                         "item_count": 1,
-                        "access_rules": []
+                        "access_rules": [
+                            "$streakReachable|26"
+                        ]
                     }
                 ],
                 "map_locations": [
@@ -506,7 +558,9 @@
                 "sections": [
                     {
                         "item_count": 1,
-                        "access_rules": []
+                        "access_rules": [
+                            "$streakReachable|27"
+                        ]
                     }
                 ],
                 "map_locations": [
@@ -525,7 +579,9 @@
                 "sections": [
                     {
                         "item_count": 1,
-                        "access_rules": []
+                        "access_rules": [
+                            "$streakReachable|28"
+                        ]
                     }
                 ],
                 "map_locations": [
@@ -544,7 +600,9 @@
                 "sections": [
                     {
                         "item_count": 1,
-                        "access_rules": []
+                        "access_rules": [
+                            "$streakReachable|29"
+                        ]
                     }
                 ],
                 "map_locations": [

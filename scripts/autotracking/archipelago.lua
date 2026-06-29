@@ -354,6 +354,9 @@ function onItem(index, item_id, item_name, player_number)
         local code = PROG_ID_TO_CODE[item_id]
         PROG_COUNT[code] = (PROG_COUNT[code] or 0) + 1
         UpdateProgOverlay(code)
+        -- toggles only fire a state change on the first copy; force a refresh so
+        -- streak access logic re-evaluates as counts climb
+        ForceUpdate()
     end
 end
 
