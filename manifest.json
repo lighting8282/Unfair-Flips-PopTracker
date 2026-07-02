@@ -4,6 +4,7 @@
     "package_version": "0.0.3",
     "package_uid": "unfair_flips_ap",
     "author": "lighting8282",
+    "versions_url": "https://raw.githubusercontent.com/lighting8282/Unfair-Flips-PopTracker/main/versions.json",
     "variants": {
         "Map Tracker": {
             "display_name": "Map Tracker",

@@ -1,0 +1,32 @@
+{
+  "versions": [
+    {
+      "package_version": "0.0.3",
+      "download_url": "https://github.com/lighting8282/Unfair-Flips-PopTracker/releases/download/v0.0.3/Unfair-Flips-PopTracker-v0.0.3.zip",
+      "sha256": "988b231c2f1a3f813fa59ad913f34d744920986ee1cd6ad9b8f47dec2d8b43d7",
+      "changelog": [
+        "Streak and shop checks now show red when out of logic (access rules mirror the apworld: fairness/shop gates + practicality)",
+        "Each map row labeled with a short description of what the upgrade does",
+        "Progression items force a logic re-evaluation as toggle counts climb",
+        "Added versions_url for automatic update checks"
+      ]
+    },
+    {
+      "package_version": "0.0.2",
+      "download_url": "https://github.com/lighting8282/Unfair-Flips-PopTracker/releases/download/v0.0.2/Unfair-Flips-PopTracker-v0.0.2.zip",
+      "sha256": "6ca522220d94c1caada8db035c74bf6d6b7423b691725d5f5bdc542c277eb656",
+      "changelog": [
+        "Created titles for each shop label",
+        "Deleted all icons but progression icons"
+      ]
+    },
+    {
+      "package_version": "0.0.1",
+      "download_url": "https://github.com/lighting8282/Unfair-Flips-PopTracker/releases/download/v0.0.1/Unfair-Flips-PopTracker-v0.0.1.zip",
+      "sha256": "245b0440aaaf6d4bb737880398915f0c6eaeeb83e47c78085432e58a7065249d",
+      "changelog": [
+        "First full release of Pop Tracker!"
+      ]
+    }
+  ]
+}
