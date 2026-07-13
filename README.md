@@ -46,3 +46,4 @@ Requires **PopTracker 0.31.0** or newer.
 - *Unfair Flips* and its art assets belong to the game's developer; sprite icons
   in this pack are derived from the game for tracking purposes only.
 - Archipelago integration by the *Unfair Flips Archipelago* mod authors.
+
