@@ -2,14 +2,19 @@
     "tracker_broadcast": {
         "type": "array",
         "orientation": "vertical",
-        "margin": "0,0",
+        "margin": "2,2",
         "content": [
             {
-                "type": "array",
-                "orientation": "vertical",
-                "margin": "0,0",
-                "content": [
-                    {"type": "layout", "key": "shared_item_grid_vertical"}
+                "type": "itemgrid",
+                "item_margin": "4, 4",
+                "h_alignment": "center",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 56,
+                "item_width": 56,
+                "rows": [
+                    ["progressivefairness", "headsplus", "flipplus"],
+                    ["comboplus", "coinplus", "autoflipplus"]
                 ]
             }
         ]
