@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "package_version": "0.0.4",
+      "download_url": "https://github.com/lighting8282/Unfair-Flips-PopTracker/releases/download/v0.0.4/Unfair-Flips-PopTracker-v0.0.4.zip",
+      "sha256": "b36671f11eeb9d2029f8b59fd3c7056c82a1dc97a34a9165dc885fcec58851aa",
+      "changelog": [
+        "Added a compact broadcast layout for streaming (progression items with received/max counts)"
+      ]
+    },
+    {
       "package_version": "0.0.3",
       "download_url": "https://github.com/lighting8282/Unfair-Flips-PopTracker/releases/download/v0.0.3/Unfair-Flips-PopTracker-v0.0.3.zip",
       "sha256": "988b231c2f1a3f813fa59ad913f34d744920986ee1cd6ad9b8f47dec2d8b43d7",
