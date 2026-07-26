@@ -1,0 +1,5 @@
+# versions.json is release infrastructure (fetched from the raw URL by PopTracker),
+# not part of the pack — keep it out of the release zip so the zip's sha256 stays
+# stable when versions.json is updated.
+versions.json export-ignore
+.gitattributes export-ignore
